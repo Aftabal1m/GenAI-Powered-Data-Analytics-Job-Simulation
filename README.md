@@ -29,15 +29,6 @@ The goal of this simulation was to support a financial services firm in:
 
 ---
 
-## 🧾 Certificate
-
-**Issued by**: Forage  
-**Issued on**: July 3, 2025  
-**Enrolment Code**: `giW6wRWCJzBL8CZCd`  
-**User Verification Code**: `G7TZqFiqJMz54ikqX`
-
----
-
 ## 📁 Repository Contents
 
 | File / Folder         | Description                                   |
